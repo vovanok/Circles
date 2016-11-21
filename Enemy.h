@@ -1,9 +1,6 @@
 #pragma once
-#include <iostream>
-#include <algorithm>
 #include "IPresentable.h"
 #include "ColorPalette.h"
-#include "GraphicUtils.h"
 
 class GameEnviroment;
 

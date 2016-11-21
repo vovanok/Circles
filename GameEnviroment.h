@@ -1,13 +1,7 @@
 #pragma once
 #include <vector>
-#include <algorithm>
-#include <functional>
-#include <sstream>
-#include <iomanip>
 #include "IPresentable.h"
 #include "Player.h"
-#include "GraphicUtils.h"
-#include "Config.h"
 
 class Enemy;
 
